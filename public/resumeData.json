@@ -1,17 +1,18 @@
 {
     "main": {
-      "name":"Brad Traversy",
-      "occupation":"Web developer, programmer and designer",
-      "description":"I design and program websites and web applications of all types. I also teach web dev courses",
+      "name":"Chathurika Senani",
+      "occupation":"Web developer, programmer and Blogger.",
+      "description":"I am an Undergraduate from SUSL. Anita Borg Scholarship Recepient.",
       "image":"profilepic.jpg",
-      "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
-      "email": "bradtraversy@gmail.com",
-      "phone": "555-555-5555",
+      "bio":"I am a fourth year student who is passionate about technologies. My technology stack includes Java Enterprise Edition, ASP.NETMVC, React, Django.",
+      "email": "zenaronline@gmail.com",
+      "phone": "07X-XXX-XXXX",
       "address":{
-        "street":"933 Albany st, Suite 3",
-        "city":"Boston",
-        "state":"MA",
-        "zip": "20293"
+        "street":"No 2427",
+        "city":"Anuradhapura",
+        "state":"North Central Province",
+        "zip": "50000",
+        "country": "Sri Lankan"
       },
       "website": "http://www.techguywebsolutions.com",
       "resumedownload":"http://something.com",
@@ -33,7 +34,7 @@
         },
         {
           "name":"linkedin",
-          "url":"http://linkedin.com",
+          "url":"https://www.linkedin.com/in/chathurikasenani/",
           "className":"fa fa-linkedin"
         },
         {
@@ -43,7 +44,7 @@
         },
         {
           "name":"github",
-          "url":"http://github.com",
+          "url":"https://github.com/zenara",
           "className":"fa fa-github"
         },
         {
