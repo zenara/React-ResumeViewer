@@ -12,6 +12,7 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
+      var country = this.props.data.address.country;
       var resumeDownload = this.props.data.resumedownload;
       }
     return (
@@ -38,8 +39,10 @@ class About extends Component {
                     <h2>Contact Details</h2>
                     <p className="address">
                              <span>{name}</span><br />
-                             <span>{street}<br />
-                                   {city}, {state} {zip}
+                             <span>{street},<br />
+                                   {city},<br />
+                                    {state}, {zip},<br />
+                                    {country}
                        </span><br />
                              <span>{phone}</span><br />
                        <span>{email}</span>

@@ -1,8 +1,8 @@
 {
     "main": {
       "name":"Chathurika Senani",
-      "occupation":"Web developer, programmer and Blogger.",
-      "description":"I am an Undergraduate from SUSL. Anita Borg Scholarship Recepient.",
+      "occupation":"Web developer, programmer and a Blogger.",
+      "description":"I am an Undergraduate from SUSL. Anita Borg Scholarship Recepient. Member of Women Tech Makers Community.",
       "image":"profilepic.jpg",
       "bio":"I am a fourth year student who is passionate about technologies. My technology stack includes Java Enterprise Edition, ASP.NETMVC, React, Django.",
       "email": "zenaronline@gmail.com",
@@ -12,7 +12,7 @@
         "city":"Anuradhapura",
         "state":"North Central Province",
         "zip": "50000",
-        "country": "Sri Lankan"
+        "country": "Sri Lanka"
       },
       "website": "http://www.techguywebsolutions.com",
       "resumedownload":"http://something.com",
