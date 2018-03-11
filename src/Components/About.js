@@ -41,7 +41,7 @@ class About extends Component {
                              <span>{name}</span><br />
                              <span>{street},<br />
                                    {city},<br />
-                                    {state}, {zip},<br />
+                                    {state},<br/> {zip},<br />
                                     {country}
                        </span><br />
                              <span>{phone}</span><br />
